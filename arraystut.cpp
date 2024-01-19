@@ -13,7 +13,7 @@ int main(){
             C[k] = A[i];
             i++;
         }
-        else{
+        else {
             C[k] = B[j];
             j++;
         }
